@@ -72,7 +72,7 @@ pip install -r requirements.txt
 ## 👤 Author
 
 Developed by Ifeanyi Ojji  
-Connect on [LinkedIn](https://linkedin.com/in/ifeanyiojji) | [GitHub](https://github.com/ifeanyiojji)
+Connect on [LinkedIn](https://www.linkedin.com/in/ifeanyi-ojji/) | [GitHub](github.com/ifeanyiojji)
 
 ## 📜 License
 
